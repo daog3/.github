@@ -1,6 +1,6 @@
 # Daog3 Repo
 
-Repos for Solana proudly built by Solar builders. Follow us for latest update!
+Repos for Solana proudly built by Daog3 builders. Follow us for latest update!
 
 ---
 
